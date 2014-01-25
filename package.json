@@ -19,7 +19,8 @@
 	"keywords": [
 	  "pack",
 	  "imap",
-	  "imaps"
+	  "imaps",
+	  "mail"
 	  
 	],
 	"dependencies": {
