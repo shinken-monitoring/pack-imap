@@ -1,4 +1,4 @@
 pack-imap
 =========
 
-Shinken configuration pack for IMAP
+Shinken configuration pack for IMAP(s)
