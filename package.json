@@ -1,27 +1,32 @@
 {
 	"name": "imap",
 	"types": ["pack"],
-	"version": "1.4",
+	"version": "1.4.1",
 	"homepage": "https://github.com/shinken-monitoring/pack-imap",
-	"author": "Jean Gabes",
+	"author": "Jean Gabès",
 	"description": "IMAP(s) checks",
 	"contributors": [
 	  {
-		"name": "Jean Gabes",
+		"name": "Jean Gabès",
 		"email": "naparuba@gmail.com"
 	  },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
-	  } 
+	  },
+	  {
+		"name": "Andrey Korobkov",
+		"email": "korobkov@fryxell.info"
+	  }
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-imap",
 	"keywords": [
 	  "pack",
 	  "imap",
 	  "imaps",
-	  "mail"
-	  
+	  "mail",
+	  "certificate",
+	  "ssl"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
